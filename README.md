@@ -17,3 +17,9 @@ Today I learned:
 - How to use IntelliJ as my main IDE
 - The Git flow: edit → add → commit → push
 - How to sync changes between my Mac and GitHub
+
+## What I'm using
+- MacBook (Apple Silicon)
+- IntelliJ IDEA Ultimate as my main IDE
+- Homebrew for package management
+- Git for version control
