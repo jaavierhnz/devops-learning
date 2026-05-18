@@ -23,3 +23,5 @@ Today I learned:
 - IntelliJ IDEA Ultimate as my main IDE
 - Homebrew for package management
 - Git for version control
+
+## Week 2 - Day 3
