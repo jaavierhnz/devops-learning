@@ -24,4 +24,6 @@ Today I learned:
 - Homebrew for package management
 - Git for version control
 
-## Week 2 - Day 3
+## Week 1 - Day 3 and 4
+- Practicing with scripts
+- Uploading scripts to GitHub using terminal
